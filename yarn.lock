@@ -4070,10 +4070,10 @@ isobject@^3.0.0, isobject@^3.0.1:
   resolved "https://registry.yarnpkg.com/isobject/-/isobject-3.0.1.tgz#4e431e92b11a9731636aa1f9c8d1ccbcfdab78df"
   integrity sha1-TkMekrEalzFjaqH5yNHMvP2reN8=
 
-java-parser@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/java-parser/-/java-parser-0.4.0.tgz#baf00a906a51921b380ba2b06fc2547271c0e97a"
-  integrity sha512-mzmgkwOIYdEQiWInuRp4PDQulZyCKaGXMF/o/EaIO215M6FTUW28BdMFnnEasgqZjHMpNx8IrhNBoSP3gG7PBQ==
+java-parser@^0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/java-parser/-/java-parser-0.5.0.tgz#753cfe381cb7c826bc6343993bceadcb7b9e56f5"
+  integrity sha512-Vk6qmTkKZ1BOQGl6sqrHE8yHuUhYxRQ+micA32tCrnDJ1dO+mq/7Ci0rhzGpO98yoOB2h2cXOYVI52T2DP5+9g==
   dependencies:
     chevrotain "6.5.0"
     lodash "4.17.15"
@@ -5895,12 +5895,12 @@ prepend-http@^1.0.0:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
-prettier-plugin-java@0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-java/-/prettier-plugin-java-0.4.0.tgz#e05a0282fc39a5deb89739d1b54bcd9bc6534bb6"
-  integrity sha512-TgO3VDGBUyPX4jV1+KPdVKlVsoExLFf/jhvNdEs/bhyZIAHXg6LV7MGAaJqblDCh2CIJrOp/j3KLpKvwftFIrQ==
+prettier-plugin-java@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-java/-/prettier-plugin-java-0.5.0.tgz#1e1aa9be6c204d383d39b138eada0913dc9ef92c"
+  integrity sha512-+vpajQfoZBle58JToq1Mcvo/UpEABBXrCn8Ju2ypyVk6uh4smD/Rdp5M1Xo5iRRfKtwgqSgSluCn50lSurKgGA==
   dependencies:
-    java-parser "^0.4.0"
+    java-parser "^0.5.0"
     lodash "4.17.15"
     prettier "1.18.2"
 
